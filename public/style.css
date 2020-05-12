@@ -232,7 +232,7 @@ blockquote {
 }
 blockquote::before {
 	content: "";
-	background-image: url(img/icon/blockquote-quote.png);
+	background-image: url(assets/img/icon/blockquote-quote.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 30px;
@@ -710,13 +710,13 @@ textarea:focus {
  .bg-opacity-white-90:before {  background: rgba(255, 255, 255, 0.9);}
 /*Background Image*/
 .bg-img {
-	background-image: url(img/bg/bg.jpg);
+	background-image: url(assets/img/bg/bg.jpg);
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .bg-img-3 {
-	background-image: url(img/bg/bg3.jpg);
+	background-image: url(assets/img/bg/bg3.jpg);
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -1128,7 +1128,7 @@ Common Style CSS
 	position: relative;
 }
 .feature-section-title::before {
-	content: url(img/bg/bg2.jpg);
+	content: url(assets/img/bg/bg2.jpg);
 	position: absolute;
 	top: 50%;
 	left: -65px;
@@ -1238,7 +1238,7 @@ Common Style CSS
 	padding: 375px 0 80px;
 }
 .timeline-frame {
-	background-image: url(img/time-line-frame/frame1.png);
+	background-image: url(assets/img/time-line-frame/frame1.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	flex: 0 0 96px;
@@ -1310,7 +1310,7 @@ Common Style CSS
 	position: relative;
 }
 .service-banner-img::before {
-	content: url(img/bg/bg4.png);
+	content: url(assets/img/bg/bg4.png);
 	position: absolute;
 	top: 25px;
 	left: -60px;
@@ -2591,7 +2591,7 @@ h4.small-title {
 .pricing-head::after {
 	position: absolute;
 	content: "";
-	background-image: url(img/pricing-plan/price-table.png);
+	background-image: url(assets/img/pricing-plan/price-table.png);
 	bottom: 0;
 	left: 0;
 	z-index: 2;

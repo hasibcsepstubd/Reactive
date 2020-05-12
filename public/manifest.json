@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Reactive",
+  "name": "Complete react app for a lawyer",
+  "description": "React based professional lawyer website.",
   "icons": [
     {
       "src": "favicon.ico",
